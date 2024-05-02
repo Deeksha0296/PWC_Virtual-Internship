@@ -1,1 +1,1 @@
-# BI_Virtual-Internships
+# BI_Virtual_Internships
